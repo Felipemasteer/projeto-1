@@ -1,1 +1,1 @@
-# projeto-1  esse foi meu primeiro projeto em html no virtual studio code
+# projeto-1  esse foi meu primeiro projeto em html no virtual studio code onde utilizei as tags: <TITLE> para criar meu titulo,<H1> <H2> sendo o tamanho das fontes <B>= BOLD para deixar em negrito alguma palavra E <P> para parágrafos
